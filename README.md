@@ -1,4 +1,4 @@
-# Peter Drury Commentary Generator
+# AI Football Commentary Generator
 
 As a passionate football fan who appreciates the art of commentary, I've created this repository to share my love for the beautiful game and the legendary commentator, Peter Drury. Peter Drury's unique style of commentary has the power to transform a simple match into an unforgettable experience. His poetic and dramatic style of commentary is a joy to listen to, and I've always wondered if it's possible to create an AI model that can generate commentaries in his style.
 
@@ -12,4 +12,6 @@ This _Artificial Peter Drury_ was inspired by the [NanoGPT](https://github.com/k
 
 ## Contribution
 
-I've trained the model on a small dataset of Peter Drury's commentaries, and I'm sure it can be improved with a larger dataset. If you'd like to contribute to this project, please feel free to add more commentaries to the dataset. You can find the dataset in the `data` folder. The dataset is a simple text file with one commentary per line. Please make sure to add a new line character `\n` at the end of each commentary.
+I've trained the model on a small dataset of Peter Drury's commentaries, and I'm sure it can be improved with a larger dataset. If you'd like to contribute to this project, please feel free to add more commentaries to the dataset. Ideas are welcome.
+
+[❤️ Tomorrow Kenya](https://tomorrow.co.ke)
